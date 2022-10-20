@@ -8,3 +8,6 @@ This is a page about Ham Radio
 
 radio
 : plays music
+
+おはようございます
+: good morning
