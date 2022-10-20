@@ -1,3 +1,7 @@
+---
+layout: default
+title: Japanese
+---
 ## Greetings (あいさつ)
 おはよう。
 : Good morning.
